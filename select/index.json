@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "It Ain't Over",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-12T09:35:16.439406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Ain't Over Yet",
+      "artist": "Accept",
+      "has_synced": true,
+      "path": "select/01_It_Ain't_Over_Yet_Accept.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Ain't Over",
+      "artist": "Porcelain Raft",
+      "has_synced": false,
+      "path": "select/02_It_Ain't_Over_Porcelain_Raft.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace On Earth) / Me And Bobby Mcgee / It Ain't Over 'Til It's Over - Ao Vivo",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/03_Give_Me_Love_(Give_Me_Peace_On_Earth)___Me_And_Bobby_Mcgee___It_Ain't_Over_'Til__Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace On Earth)\u0000Me And Bobby Mcgee\u0000It Ain't Over 'Til It's Over",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/04_Give_Me_Love_(Give_Me_Peace_On_Earth)\u0000Me_And_Bobby_Mcgee\u0000It_Ain't_Over_'Til_It's_Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Ain't Over 'Til It's Over",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/05_It_Ain't_Over_'Til_It's_Over_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Ain't Over Till It's Over",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/06_It_Ain't_Over_Till_It's_Over_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace on Earth) / Me and Bobby Mcgee / It Ain't over 'Til It's Over (Ao Vivo)",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/07_Give_Me_Love_(Give_Me_Peace_on_Earth)___Me_and_Bobby_Mcgee___It_Ain't_over_'Til__Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Ain't Over",
+      "artist": "Maurette Brown Clark",
+      "has_synced": true,
+      "path": "select/08_It_Ain't_Over_Maurette_Brown_Clark.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Ain't Over 'Til It's Over (Remastered 2012)",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/09_It_Ain't_Over_'Til_It's_Over_(Remastered_2012)_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Ain't over Yet",
+      "artist": "Rodney Crowell",
+      "has_synced": false,
+      "path": "select/10_It_Ain't_over_Yet_Rodney_Crowell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Ain't Over 'Til It's Over",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/11_It_Ain't_Over_'Til_It's_Over_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It Ain't Over",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_It_Ain't_Over_藤井_風.txt"
+    }
+  ]
+}
